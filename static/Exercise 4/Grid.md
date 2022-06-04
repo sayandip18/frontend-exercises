@@ -1,4 +1,4 @@
-# Exercise 5: Pattern
+# Exercise 4: Pattern
 
 ## Objective
 
