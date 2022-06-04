@@ -8,7 +8,6 @@ Mark up and style the following three-card layout:
   <img alt="mockup" src="mockup.svg" width="888">
 </p>
 
-You can use the existing `index.html` and `styles.css` to complete this.
 
 #### Assets
 
